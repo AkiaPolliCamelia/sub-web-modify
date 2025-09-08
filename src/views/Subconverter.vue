@@ -348,6 +348,7 @@ export default {
           "sub-web作者提供": "https://api.wcc.best",
         },
         backendOptions: [
+          { value: "https://subapi.226576.xyz" },
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
@@ -357,6 +358,15 @@ export default {
           { value: "https://api.wcc.best" },
         ],
         remoteConfig: [
+          {
+            label: "自用规则",
+            options: [
+              {
+                label: "ForXue",
+                value: "https://raw.githubusercontent.com/AkiaPolliCamelia/subthings/main/MyRules.ini"
+              }
+            ]
+          }
           {
             label: "CM规则",
             options: [
