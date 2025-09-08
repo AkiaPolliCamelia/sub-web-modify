@@ -366,7 +366,7 @@ export default {
                 value: "https://raw.githubusercontent.com/AkiaPolliCamelia/subthings/main/MyRules.ini"
               }
             ]
-          }
+          },
           {
             label: "CM规则",
             options: [
