@@ -803,7 +803,7 @@ export default {
         remoteConfig: "https://raw.githubusercontent.com/AkiaPolliCamelia/subthings/main/MyRules.ini",
         excludeRemarks: "",
         includeRemarks: "",
-        filename: "",
+        filename: "ForXue",
         rename: "",
         devid: "",
         interval: "",
